@@ -1,10 +1,10 @@
 ### Week 1 OpenCV Lab 1
 # How to set up OpenCV
 ## Contents
-- [1. Lab Summary](#1-lab-summary)
+- [1. Lab notes and methods](#1-lab-notes-and-methods)
 - [2. Insights](#2-insights)
 
-## 1. Lab Summary
+## 1. Lab notes and methods
 On new terminal in **VS Code**:  
 Step 1: Go to the desired directory then create the virtual environment and in terminal input the following line:  
 `python3 -m venv myvenv`  

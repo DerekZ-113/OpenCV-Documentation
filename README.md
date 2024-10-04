@@ -6,15 +6,15 @@
 - This document is to track weekly **OpenCV workshop activities and notes**.
 - Each lab session will have its own folder named with according date.
 - Each lab session will have either additional code folder **OR** insights.
+- All the necessary image/video files are located in images folder
 
 ## Lab Folder File Structure
 - OpenCV_Lab.pdf
-- sample_code_folder
-- practice_code_folder
-- additional_code_folder (if any)
+- sample_codes
+- practice_codes
+- additional_codes (if any)
 - README.md
-  - Lab Summary
-  - Methods
+  - Lab notes and methods
   - Insights (if any)
 
 ## Table of Contents
