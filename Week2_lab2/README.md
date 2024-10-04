@@ -1,4 +1,4 @@
-## Week 2 OpenCV Lab  
+## Week 2 OpenCV Lab 2
 
 # Loading, displaying, and saving images  
 

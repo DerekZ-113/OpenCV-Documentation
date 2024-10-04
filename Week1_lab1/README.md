@@ -1,5 +1,10 @@
-# How to set up OpenCV  
+### Week 1 OpenCV Lab 1
+# How to set up OpenCV
+## Contents
+- [1. Lab Summary](#1-lab-summary)
+- [2. Insights](#2-insights)
 
+## 1. Lab Summary
 On new terminal in VS Code:  
 Step 1: Go to the desired directory then create the virtual environment and in terminal input the following line:  
 `python3 -m venv myvenv`  
@@ -10,7 +15,8 @@ Step 2: Activate the virtual environment using (this line is for Mac):
 Step 3: Install OpenCV within the virtual environment:  
 `pip install opencv-python`  
 
-## Notes about the virtual environment
+## 2. Insights
+### Notes about the virtual environment
 1. Virtual environments create a separate environment with its own python libraries for each project. Each project will have their own dependencies within the same machine.  
 2. Avoid global installation.  
 3. All the subfolder within where the virtual environment is installed will be under the same virtual environment.
