@@ -1,5 +1,9 @@
 # Week 2 OpenCV Lab 2: Loading, Displaying, and Saving Images
 
+### Code Files
+- [week2_lab2.py](week2_lab2.py)
+- [lab2_practice_code.py](lab2_practice_code.py)
+
 ## 1. Loading Images with OpenCV
 **import** the OpenCV library using:
 ```python
@@ -14,7 +18,6 @@ import cv2
 - `cv2.IMREAD_GRAYSCALE` (or `0`): Loads an image in grayscale mode.
 - `cv2.IMREAD_UNCHANGED` (or `-1`): Loads an image including the alpha channel.
 
-Example:
 ```python
 # Load an image in color and grayscale
 img = cv2.imread('seal.jpg')
@@ -27,7 +30,6 @@ gray_img = cv2.imread('seal.jpg', cv2.IMREAD_GRAYSCALE)
   - `cv2.waitKey(0)`: Waits indefinitely for a key event.
 - Use `cv2.destroyAllWindows()` to close all image windows after exiting the script.
 
-Example:
 ```python
 # Display the color and grayscale images
 cv2.imshow('Color Image', img)
@@ -42,8 +44,20 @@ cv2.destroyAllWindows()
 - Use `cv2.imwrite(filename, image)` to save an image to a file.
 - The filename must include the desired format extension, such as `.jpg`, `.png`, etc.
 
-Example:
 ```python
 # Save the grayscale image
 cv2.imwrite('lab_2_image.jpg', gray_img)
 ```
+
+## 4. Additional Information
+### Loading Images with OpenCV
+- OpenCV supports various file formats such as PNG, BMP, and TIFF. The use of different `cv2.IMREAD_*` flags can affect how these formats are processed. 
+- For example, PNG supports transparency, which can be loaded using `cv2.IMREAD_UNCHANGED`.
+
+### Displaying Images with OpenCV
+- The `cv2.waitKey()` function is essential for handling image display, 
+- We will use this to display frames from videos in next week.
+- Different key codes can be used to control the flow of the display, we will do a mini project about this.
+
+### Saving Images with OpenCV
+- OpenCV supports both lossy (e.g., JPEG) and lossless (e.g., PNG) compression. The choice of format can significantly impact the quality and size of the saved image.
