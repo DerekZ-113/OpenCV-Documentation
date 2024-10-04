@@ -5,7 +5,7 @@
 - [2. Insights](#2-insights)
 
 ## 1. Lab Summary
-On new terminal in VS Code:  
+On new terminal in **VS Code**:  
 Step 1: Go to the desired directory then create the virtual environment and in terminal input the following line:  
 `python3 -m venv myvenv`  
   
@@ -14,6 +14,15 @@ Step 2: Activate the virtual environment using (this line is for Mac):
 
 Step 3: Install OpenCV within the virtual environment:  
 `pip install opencv-python`  
+
+Import OpenCV in PyCharm
+- Click on `Files` on the top-right corner of your screen 
+- Click on `Setting` and then to Project: `Name of Your Project`
+- Click on `Python Interpreter`
+- Expand on the box that’s next to `Python Interpreter` and click `Show All`
+- Click on Python 3.10 so it is highlighted then click `OK`
+- Click on the `+` that is right above `Package`
+- Search `opencv-python` and then install the package
 
 ## 2. Insights
 ### Notes about the virtual environment

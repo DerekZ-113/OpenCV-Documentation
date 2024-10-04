@@ -2,10 +2,20 @@
 
 **Derek Zhang**
 
+- This document is for **CS 5330 Pattern** Recognition and Computer Vision.
+- This document is to track weekly **OpenCV workshop activities and notes**.
+- Each lab session will have its own folder named with according date.
+- Each lab session will have either additional code folder **OR** insights.
 
-- This document is for **CS 5330 Pattern** Recognition and Computer Vision.<br>
-- This document is to track weekly **OpenCV workshop activities and notes**.<br>
-- Each lab session will have its own folder named with according date.<br>
+## Lab Folder File Structure
+- OpenCV_Lab.pdf
+- sample_code_folder
+- practice_code_folder
+- additional_code_folder (if any)
+- README.md
+  - Lab Summary
+  - Methods
+  - Insights (if any)
 
 ## Table of Contents
 - [Lab 1: Setting Up OpenCV](Week1_lab1)
