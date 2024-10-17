@@ -1,7 +1,7 @@
 # Week 2 OpenCV Lab 2: Loading, Displaying, and Saving Images
 
 ### Code Files
-- [week2_lab2.py](week2_lab2.py)
+- [week2_lab2.py](lab2_sample_code.py)
 - [lab2_practice_code.py](lab2_practice_code.py)
 
 ## 1. Loading Images with OpenCV
