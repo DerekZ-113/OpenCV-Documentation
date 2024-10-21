@@ -1,8 +1,8 @@
 # Week 3 OpenCV Lab 3: Basics of Images
 
 ### Code Files
-- [week3_lab3.py](lab3_sample_code.py)
-- []()
+- [lab3 sample code.py](lab3_sample_code.py)
+- [lab3_practice_code.py](lab3_practice_code.py)
 
 ## 1. Basic Image Operations
 

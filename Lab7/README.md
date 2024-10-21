@@ -1,7 +1,8 @@
 # Week 7 OpenCV Lab 7: Thresholding
 
 ### Code Files
-- [week7_lab7.py](week7_lab7.py)
+- [lab7_sample_code.py](lab7_sample_code.py)
+- [lab7 practice code.py](lab7_practice_code.py)
 
 ## 1. Introduction to Thresholding
 - **Thresholding**: A simple image segmentation technique that converts a grayscale image into a binary image.

@@ -1,7 +1,8 @@
 # Week 5 OpenCV Lab 5: Histogram
 
 ### Code Files
-- [week5_lab5.py](week5_lab5.py)
+- [lab5_sample_code.py](lab5_sample_code.py)
+- [lab5 practice code.py](lab5_practice_code.py)
 
 ## 1. Introduction to Histograms
 - **Histogram**: A graphical representation showing the frequency of pixel intensity values in an image.

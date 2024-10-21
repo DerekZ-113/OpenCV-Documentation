@@ -1,7 +1,8 @@
 # Week 4 OpenCV Lab 4: Image Processing
 
 ### Code Files
-- [week4_lab4.py](week4_lab4.py)
+- [lab4_sample_code.py](lab4_sample_code.py)
+- [lab4 practice code.py](lab4_practice_code.py)
 
 ## 1. Feature Detection and Matching
 

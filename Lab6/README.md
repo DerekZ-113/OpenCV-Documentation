@@ -1,7 +1,8 @@
 # Week 6 OpenCV Lab 6: Smoothing and Blurring
 
 ### Code Files
-- [week6_lab6.py](week6_lab6.py)
+- [lab6_sample_code.py](lab6_sample_code.py)
+- [lab6 practice code.py](lab6_practice_code.py)
 
 ## 1. Importance of Smoothing and Blurring
 - **Smoothing and Blurring**: Essential image preprocessing techniques that reduce noise and detail in an image.

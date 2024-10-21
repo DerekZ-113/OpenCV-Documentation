@@ -1,8 +1,5 @@
 ### Week 1 OpenCV Lab 1
 # How to set up OpenCV
-## Contents
-- [1. Lab notes and methods](#1-lab-notes-and-methods)
-- [2. Insights](#2-insights)
 
 ## 1. Lab notes and methods
 On new terminal in **VS Code**:  
