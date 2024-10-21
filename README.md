@@ -9,10 +9,10 @@
 - All the necessary image/video files are located in images folder
 
 ## Table of Contents
-- [Lab 1: Setting Up OpenCV](Week1_lab1)
-- [Lab 2: Loading, Displaying, and Saving Images](Week2_lab2)
-- [Lab 3: Basics of Images](Week3_lab3)
-- [Lab 4: Image Processing](Week4_lab4)
-- [Lab 5: Histogram](Week5_lab5)
-- [Lab 6: Smoothing and Blurring](Week6_lab6)
-- [Lab 7: Thresholding](Week7_lab7)
+- [Lab 1: Setting Up OpenCV](Lab1)
+- [Lab 2: Loading, Displaying, and Saving Images](Lab2)
+- [Lab 3: Basics of Images](Lab3)
+- [Lab 4: Image Processing](Lab4)
+- [Lab 5: Histogram](Lab5)
+- [Lab 6: Smoothing and Blurring](Lab6)
+- [Lab 7: Thresholding](Lab7)
