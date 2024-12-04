@@ -16,3 +16,7 @@
 - [Lab 5: Histogram](Lab5)
 - [Lab 6: Smoothing and Blurring](Lab6)
 - [Lab 7: Thresholding](Lab7)
+- [Lab 8: Edge Detection](Lab8)
+- [Lab 9: Contours](Lab9)
+- [Lab 10: Camera](Lab10)
+- [Lab 11: Generative AI](Lab11)
